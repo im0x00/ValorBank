@@ -1,4 +1,4 @@
 package com.hyu_hsj.valorbank.presentation;
 
-public class LoginCommand {
+public class FrontController {
 }
