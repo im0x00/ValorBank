@@ -76,15 +76,15 @@ CREATE TABLE transaction_value (
 );
 
 INSERT INTO value (value_id, value_name, description) VALUES
-    (1, 'Necessity', '기본 생계 및 생활유지 비용'),
-    (2, 'Health', '신체·정신 건강에 직접 투자되는 비용'),
-    (3, 'Stability', '재무적·생활 안정성 확보 비용'),
-    (4, 'Work / Income', '수입 창출 혹은 직무 수행을 위해 직접 지출되는 비용'),
-    (5, 'Growth / Skill', '개인 역량·지식 확장 목적의 비용'),
-    (6, 'Aesthetic / Self-Expression', '외적 표현·스타일·이미지 구축을 위한 비용'),
-    (7, 'Experience / Leisure', '경험 기반의 만족·휴식'),
-    (8, 'Connection / Social', '인간관계 유지·강화 목적의 지출'),
-    (9, 'Contribution / Charity', '타인·사회에 기여하는 지출'),
-    (10, 'Status / Signaling', '사회적 지위·신분 표시를 위해 소비되는 비용'),
-    (11, 'Convenience / Time-Saving', '시간 절약·편의성 확보를 위한 비용'),
-    (12, 'Future / Investment', '미래 가치 축적을 위한 금전적 투자');
+    (1, 'Necessity', 'Basic living and maintenance expenses'),
+    (2, 'Health', 'Expenses directly invested in physical and mental health'),
+    (3, 'Stability', 'Expenses to secure financial and life stability'),
+    (4, 'Work / Income', 'Expenses for generating income or performing job duties'),
+    (5, 'Growth / Skill', 'Expenses for personal growth and knowledge/skill expansion'),
+    (6, 'Aesthetic / Self-Expression', 'Expenses for appearance, style, or self-expression'),
+    (7, 'Experience / Leisure', 'Expenses for experiences, satisfaction, and leisure'),
+    (8, 'Connection / Social', 'Expenses to maintain or strengthen social relationships'),
+    (9, 'Contribution / Charity', 'Expenses contributing to others or society'),
+    (10, 'Status / Signaling', 'Expenses to indicate social status or position'),
+    (11, 'Convenience / Time-Saving', 'Expenses to save time or improve convenience'),
+    (12, 'Future / Investment', 'Monetary investments for future value accumulation');
